@@ -1,0 +1,4 @@
+Corredor: Lia, 10.0 km
+Nadador: Paulo, estilo crawl
+Tempo: 55.2 s
+Tempo na prova 100m: 58.0 s

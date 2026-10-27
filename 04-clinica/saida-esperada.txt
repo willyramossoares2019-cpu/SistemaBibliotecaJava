@@ -1,0 +1,4 @@
+Paciente: Carla, convenio Unimed
+Medico: Diego, especialidade Clinica
+Consulta em 12/10/2026
+Consulta em 12/10/2026 as 14:00

@@ -1,0 +1,4 @@
+Lanche: X-burguer, 2 unidades
+Bebida: Suco, 300 ml
+18.0
+36.0

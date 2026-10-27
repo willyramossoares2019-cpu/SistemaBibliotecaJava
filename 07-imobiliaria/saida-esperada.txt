@@ -1,0 +1,4 @@
+Casa: Rua A, 10, 3 quartos
+Apartamento: Rua B, 200, andar 5
+240000.0
+242000.0

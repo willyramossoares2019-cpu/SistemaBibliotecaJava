@@ -1,0 +1,4 @@
+Cachorro: Rex, raca Labrador
+Gato: Mia, pelagem curta
+36
+42

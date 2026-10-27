@@ -1,0 +1,4 @@
+20.0
+55.0
+Divertida Mente
+Divertida Mente, valor 20.0
